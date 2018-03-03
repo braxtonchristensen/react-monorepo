@@ -1,0 +1,14 @@
+{
+  "name": "component-login-form",
+  "version": "0.0.1",
+  "description": "A simple login form component",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "author": "Braxton Christensen",
+  "dependencies": {
+    "component-button": "^0.0.1",
+    "component-input": "^0.0.1",
+    "helper-demo-theme": "0.0.1",
+    "react": "^16.2.0"
+  }
+}

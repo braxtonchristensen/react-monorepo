@@ -1,0 +1,13 @@
+{
+  "name": "component-button",
+  "version": "0.0.1",
+  "description": "A simple button component",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "author": "Braxton Christensen",
+  "dependencies": {
+    "helper-demo-theme": "0.0.1",
+    "react": "^16.2.0",
+    "styled-components": "^2.1.0"
+  }
+}
